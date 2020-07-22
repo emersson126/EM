@@ -1,4 +1,4 @@
-<img align="right" width="500" height="500" src="https://github.com/emersson126/EM/PORTADA.png">
+<img align="right" width="500" height="500" src="https://raw.githubusercontent.com/emersson126/EM/master/PORTADA.png">
 
 
 # Hola, soy desarrollador.
