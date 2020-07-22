@@ -58,3 +58,4 @@ Full-Stack | Web | Mobile (Android & Flutter)
 <a href="https://www.youtube.com/channel/UCiv3Sc-qSq2HThd5pLuTo2w?view_as=subscriber">
   <img align="left" alt="Youtube" width="22px" src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
 </a>
+<a href="https://wa.me/51958425493" target="_blank"><img width="100%" src="https://4megatech.com/RecursosWeb/imagen/whatsapp.png"></a>
